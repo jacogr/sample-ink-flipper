@@ -1,0 +1,13 @@
+{
+  "name": "sample-ink-flipper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.mjs"
+  },
+  "dependencies": {
+    "@polkadot/api": "^3.10.1",
+    "@polkadot/api-contract": "^3.10.1"
+  }
+}
